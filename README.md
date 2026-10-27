@@ -63,14 +63,21 @@ Hello! I'm **Isac**, a technology enthusiast learning to build useful, reliable,
 
 <div align="center">
 
-<a href="https://github.com/icarvalhodev?tab=repositories">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=icarvalhodev&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6" alt="Project one"/>
+<a href="https://github.com/icarvalhodev/Studio-Maiara-castro">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=icarvalhodev&repo=Studio-Maiara-castro&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6" alt="Studio Maiara Castro"/>
 </a>
-<a href="https://github.com/icarvalhodev?tab=repositories">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=icarvalhodev&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6" alt="Project two"/>
+<a href="https://github.com/icarvalhodev/Academia-mais-perform">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=icarvalhodev&repo=Academia-mais-perform&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6" alt="Academia Mais Perform"/>
 </a>
 
+<br/><br/>
+
+[![Studio Maiara Castro](https://img.shields.io/badge/PROJECT_01-STUDIO_MAIARA-00E5FF?style=for-the-badge&logo=github&logoColor=050816)](https://github.com/icarvalhodev/Studio-Maiara-castro)
+
+[![Academia Mais Perform](https://img.shields.io/badge/PROJECT_02-ACADEMIA_MAIS_PERFORM-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/icarvalhodev/Academia-mais-perform)
+
 </div>
+
 
 **Project ideas and current areas of study**
 
